@@ -12,7 +12,7 @@ public class Main {
 
         switch (select) {
             case 1:
-                System.out.println("Result " + x+y);
+                System.out.println("Result " + (x+y));
                 break;
             case 2:
                 System.out.println("Result " + (x-y));
